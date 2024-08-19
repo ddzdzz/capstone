@@ -1,2 +1,2 @@
-# capstone
-Fourth year design project on high-rise fire monitoring.
+# Flare - High-rise Fire Monitoring System
+4th year capstone project.
